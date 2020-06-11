@@ -10,8 +10,8 @@ $(document).ready(function(){
         autoplaySpeed: 4000,
        	// fade: true,
        	// cssEase: 'linear'
-    	prevArrow: '<button type="button" class="slick-prev"><img src="left.png"></button>',
-    	nextArrow: '<button type="button" class="slick-next"><img src="right.png"></button>',
+    	prevArrow: '<button type="button" class="slick-prev"><img src="../icons/left.svg"></button>',
+    	nextArrow: '<button type="button" class="slick-next"><img src="../icons/right.svg"></button>',
     	responsive: [
     		{
 			breakpoint: 992,
